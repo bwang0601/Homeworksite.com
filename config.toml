@@ -4,15 +4,15 @@ title = "Homework-site"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
-# disqusShortname = "spf13"
+# disqusShortname = "bwang0601"
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 publishDir = "docs"
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "Bruce Wang"
+    site_description = "The awesome blog of Bruce Wang."
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/Stamp-Bruce Wang.png"
